@@ -9,7 +9,7 @@ My basic skills:
 - Go
 - C++
 
-Things Im currently interested in:
+Things I'm currently interested in:
 - Linux
 - AI
 - Data Science
