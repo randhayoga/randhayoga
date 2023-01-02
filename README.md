@@ -1,6 +1,6 @@
 Hello there! 👋
 
-Call me **Ran**, a wanderer for computing stuffs.
+Call me **Ran**, a wanderer for anything related to computers.
 
 My basic skills:
 - Vim/[Neovim](https://github.com/neovim/neovim)
