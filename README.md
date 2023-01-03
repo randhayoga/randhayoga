@@ -10,9 +10,9 @@ My basic skills:
 - C++
 
 Things I'm currently interested in:
-- Linux
-- AI
 - Data Science
+- AI
+- Linux
 
 Big thanks to my friends, mentors, and countless strangers who help me grow in this vast world of technology.
 
