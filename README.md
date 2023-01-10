@@ -10,8 +10,7 @@ My basic skills:
 - C++
 
 Things I'm currently interested in:
-- Data Science
-- AI
+- Machine Learning
 - Linux
 
 Big thanks to my friends, mentors, and countless strangers who help me grow in this vast world of technology.
