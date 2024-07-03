@@ -15,7 +15,6 @@
 ![React](https://img.shields.io/badge/React-434C5E?style=for-the-badge&logo=react&logoColor=88C0D0)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-434C5E?style=for-the-badge&logo=bootstrap&logoColor=B48EAD)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-434C5E?style=for-the-badge&logo=tailwind-css&logoColor=88C0D0)
-![Axios](https://img.shields.io/badge/Axios-434C5E?style=for-the-badge&logo=axios&logoColor=81A1C1)
 <br/>
 ![Backend](https://img.shields.io/badge/Backend-434C5E?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-434C5E?style=for-the-badge&logo=node.js&logoColor=A3BE8C)
