@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/githubBanner.png" alt="Randha - Aspiring Full Stack Developer" width="90%">
+  <img src="./assets/githubBanner2.png" alt="Randha - Aspiring Full Stack Developer" width="90%">
 </p>
 
 ## 🚀 Skills
