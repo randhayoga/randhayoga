@@ -8,6 +8,9 @@
 ![Windows](https://img.shields.io/badge/Windows-434C5E?style=for-the-badge&logo=windows&logoColor=88C0D0)
 ![WSL](https://img.shields.io/badge/WSL-434C5E?style=for-the-badge&logo=windows&logoColor=ECEFF4)
 <br/>
+![Framework](https://img.shields.io/badge/Framework-434C5E?style=for-the-badge)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-434C5E?style=for-the-badge&logo=codeigniter&logoColor=D08770)
+<br/>
 ![Frontend](https://img.shields.io/badge/Frontend-434C5E?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-434C5E?style=for-the-badge&logo=html5&logoColor=D08770)
 ![CSS3](https://img.shields.io/badge/CSS3-434C5E?style=for-the-badge&logo=css3&logoColor=81A1C1)
@@ -34,7 +37,7 @@
 
 ## 🌱 Currently Learning
 ![PHP](https://img.shields.io/badge/PHP-434C5E?style=for-the-badge&logo=php&logoColor=81A1C1)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-434C5E?style=for-the-badge&logo=codeigniter&logoColor=D08770)
+![Laravel](https://img.shields.io/badge/laravel-434C5E?style=for-the-badge&logo=laravel&logoColor=81A1C1)
 
 <!--
 ## 📊 GitHub Stats
