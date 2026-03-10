@@ -31,13 +31,14 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-434C5E?style=for-the-badge&logo=visual-studio-code&logoColor=88C0D0)
 <br/>
 ![Design](https://img.shields.io/badge/Design-434C5E?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-434C5E?style=for-the-badge&logo=figma&logoColor=BF616A)
 ![Photoshop](https://img.shields.io/badge/Photoshop-434C5E?style=for-the-badge&logo=adobe-photoshop&logoColor=81A1C1)
 ![Illustrator](https://img.shields.io/badge/Illustrator-434C5E?style=for-the-badge&logo=adobe-illustrator&logoColor=D08770)
 
 ## 🌱 Currently Learning
 ![PHP](https://img.shields.io/badge/PHP-434C5E?style=for-the-badge&logo=php&logoColor=81A1C1)
-![Laravel](https://img.shields.io/badge/laravel-434C5E?style=for-the-badge&logo=laravel&logoColor=81A1C1)
+![Laravel](https://img.shields.io/badge/Laravel-434C5E?style=for-the-badge&logo=laravel&logoColor=81A1C1)
+![Figma](https://img.shields.io/badge/Figma-434C5E?style=for-the-badge&logo=figma&logoColor=BF616A)
+![Docker](https://img.shields.io/badge/Docker-434C5E?style=for-the-badge&logo=docker&logoColor=81A1C1)
 
 <!--
 ## 📊 GitHub Stats
